@@ -19,13 +19,17 @@ Here are some ideas to get you started:
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Felipe-kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Felipe-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Felipe-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="Felipe-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="Felipe--Mongo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Felipe-CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg">
+  <img align="center" alt="Felipe-dotNet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
+  <img align="center" alt="Felipe-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Felipe-jira" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg">
   <img align="center" alt="Felipe-HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felipe-CSS3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Felipe--Mongo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Felipe-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
+  <img align="center" alt="Felipe-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Felipe-kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
 </div>
 
 <p>
