@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Trabalho atualmente com Infraestrutura e TI
-- 🌱 Faço faculdade de Análise e Desenvolvimento de Sistemas e cursos de linguagens
+- 🔭 Desenvolvedor Python aventurando-se pelas terras do .Net.
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas além de Ágil e programação em geral.  
 - 📫 Podem me encontrar por e-mail ou redes sociais.
 - 😄 Pronomes: ele/dele
 
